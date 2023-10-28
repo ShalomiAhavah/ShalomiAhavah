@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @ShalomiAhavah aka Jewels
+- 👋 Hi, I’m Jewels
 - ✨ I’m interested in Coding, Horses, and all things Aesthetic
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning JS
 - 📫 How to reach me ...greengates4j@gmail.com
 
 - I know:
   html5
   css
+  figma
 - I want to learn
   Javascript
 
